@@ -1,0 +1,27 @@
+{
+  "name": "myportfoliosite",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "nodemon": "^1.18.9",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.2.0",
+    "react-mdl": "^1.11.0",
+    "react-pdf": "^4.0.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.0",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "I created a Youtube code along tutorial for this project. Click the link above to view!",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
