@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Grid, Cell, List, ListItem, ListItemContent} from 'react-mdl';
-import nitika from '../nitika.jpg';
+import nitika from '../nits.png';
 
 
 class Contact extends Component {

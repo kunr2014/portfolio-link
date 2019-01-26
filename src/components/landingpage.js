@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 
 
-import nitika from '../nitika.jpg';
+import nitika from '../nits.png';
 
 
 class Landing extends Component {
@@ -35,11 +35,7 @@ class Landing extends Component {
             <i className="fa fa-github-square" aria-hidden="true" />
           </a>
 
-          
-
-
-
-        </div>
+          </div>
 
 
           </div>
