@@ -45,7 +45,7 @@ class Contact extends Component {
                     <ListItem>
                       <ListItemContent style={{fontSize: '25px', fontFamily: 'Anton'}}>
                         <i className="fa fa-skype" aria-hidden="true"/>
-                        MySkypeID
+                        
                       </ListItemContent>
                     </ListItem>
                   </List>
